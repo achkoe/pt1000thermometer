@@ -1,0 +1,1 @@
+See doc/pt1000thermometer.pdf for some description of this project.
